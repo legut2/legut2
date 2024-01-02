@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🔭 I’m currently working on making QR codes something pleasing to look at. You can check out some of my attempts over at [qrtoad.com](qrtoad.com), [humanqr.com](humanqr.com). I'm also working on reading dial gauges with cameras.
+- 🔭 I’m currently working on making QR codes something pleasing to look at. You can check out some of my attempts over at [qrtoad.com](https://qrtoad.com), [humanqr.com](https://humanqr.com). I'm also working on reading dial gauges with cameras.
 - 🌱 I’m currently learning working with Rust, Stable Diffusion, and building great products.
 - 👯 I’m looking to collaborate on creative computer vision applications or creative technical work.
 - 💬 Ask me about QR Codes, Computer Vision, and reading dial gauges with a camera.
