@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning working with Rust, Stable Diffusion, and building great products.
+- 🌱 I’m currently learning working with diffusion models, and building great products.
 - 👯 I’m looking to collaborate on creative computer vision applications that further my learning goals.
 - 🤔 I’m looking for help with introductions to people in San Francisco.
 - 💬 Ask me about QR Codes, Computer Vision, and reading dial gauges.
