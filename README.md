@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 - 🔭 I’m currently working on making QR codes something pleasing to look at. You can check out some of my attempts over at [qrtoad.com](https://qrtoad.com), [humanqr.com](https://humanqr.com). I'm also working on reading dial gauges with cameras.
-- 💬 Ask me about QR Codes, Computer Vision, and reading dial gauges with a camera.
+- 💬 Ask me about QR Codes, Computer Vision, or reading dial gauges with a camera.
 - 📫 How to reach me: over [email](mailto:daniel@devmandan.com), or [twitter](https://twitter.com/Dev_Man_Dan) are a quick way to start a conversation.
